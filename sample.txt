@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is B81A-066F
+
+ Directory of C:\Users\Dinesh\Desktop\Dusseldorf\AWS\Jenkins\JavaProj
+
+09/22/2020  11:11 PM    <DIR>          .
+09/22/2020  11:11 PM    <DIR>          ..
+09/22/2020  10:32 PM               148 hello.java
+09/22/2020  11:11 PM                 0 sample.txt
+               2 File(s)            148 bytes
+               2 Dir(s)  328,252,350,464 bytes free
